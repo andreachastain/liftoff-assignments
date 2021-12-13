@@ -7,12 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We want our app, BeatsPM, to be able to connect our users with other music lovers. We want users to be able to chat with each other and share their love for their favorite artists on forum boards.
 ### Features
-Include Features here
+Search Feature: User would like to search for posts to see what was mentioned using that prior keyword for information.
+Authentication - An admin would like to make and delete boards under the parent forums so that they can control the flow of info on this app
+Post Admin - Users would like to create posts, to share information with everyone on BeatsPM
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+JavaScript
+Angular
 ### What I'll Have to Learn
-Include what you will need to learn here
+Incorporating all the programs to work together to create a 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YlJcFwlR/liftoff-project-board-dec-2021
